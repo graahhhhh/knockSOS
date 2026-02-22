@@ -374,7 +374,6 @@ What is your project? Gas detection with location tracking? 🚀
 
 ## Project Documentation
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/d0380351-d2b8-4a9d-ba7c-6d00da35c357" />
 
 ### For Software:
 
@@ -407,12 +406,7 @@ What is your project? Gas detection with location tracking? 🚀
 
 #### Schematic & Circuit
 
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
+https://drive.google.com/drive/folders/1_FkJ1QAbVFkNsDT0Wrse6zhrHdDefT9j
 #### Build Photos
 
 ![Team](Add photo of your team here)
